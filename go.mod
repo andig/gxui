@@ -1,4 +1,4 @@
-module git.sr.ht/~nelsam/gxui
+module github.com/andig/gxui
 
 go 1.15
 
