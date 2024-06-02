@@ -1,4 +1,4 @@
-module git.sr.ht/~nelsam/gxui
+module git.sr.ht/nelsam/gxui
 
 go 1.15
 
